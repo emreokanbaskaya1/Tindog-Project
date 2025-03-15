@@ -8,8 +8,7 @@ This project is a fun **dog matchmaking platform** concept built with Bootstrap.
 - **Fun Theme**: Created with a humorous approach.
 - **Easy to Use**: A user-friendly experience for everyone.
 
-## 📷 Screenshot
-![DogTinder Site](https://emreokanbaskaya1.github.io/Tindog-Project/)
+https://emreokanbaskaya1.github.io/Tindog-Project/
 
 ## 🛠 Technologies Used
 - **HTML5 & CSS3**
