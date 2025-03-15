@@ -9,7 +9,7 @@ This project is a fun **dog matchmaking platform** concept built with Bootstrap.
 - **Easy to Use**: A user-friendly experience for everyone.
 
 ## 📷 Screenshot
-![DogTinder Preview](image.png)
+![DogTinder Site](https://emreokanbaskaya1.github.io/Tindog-Project/)
 
 ## 🛠 Technologies Used
 - **HTML5 & CSS3**
@@ -17,9 +17,3 @@ This project is a fun **dog matchmaking platform** concept built with Bootstrap.
 - **JavaScript**
 - **FontAwesome**
 
-## 📥 Installation
-To run this project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/dogtinder.git
